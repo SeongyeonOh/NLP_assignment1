@@ -7,3 +7,5 @@ attention이라는 방식을 통해 인코더의 문장들 중 디코더의 현�
 2. source 문장의 hidden state H의 weighted sum을 계산해 weighted src vector (w)를 얻는다.
 3. 매 디코딩 t 마다 새로운 w를 계산한다.
 
+
+자세한 설명은 코드에 주석을 통해 이어가도록 하겠다.
